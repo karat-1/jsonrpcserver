@@ -55,6 +55,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
-
-Feel free to open issues or submit pull requests to improve the functionality and robustness of this server.
+- [Your Name](https://github.com/karat-1)
