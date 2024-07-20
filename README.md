@@ -55,4 +55,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-- [Your Name](https://github.com/karat-1)
+- [karat-1](https://github.com/karat-1)
