@@ -33,12 +33,6 @@ This repository contains a simple JSON-RPC 2.0 server implementation in Go using
    ./jrpc2server -address="localhost:8080" -max=500
    ```
 
-## Endpoints
-
-### StringOperations.CountString
-
-**Description**: Counts the number of Unicode code points in the provided string.
-
 ## Graceful Shutdown
 
 The server can be gracefully shut down by sending an interrupt signal (Ctrl+C). It will log the total number of received messages before exiting.
