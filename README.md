@@ -5,7 +5,6 @@ This repository contains a simple JSON-RPC 2.0 server implementation in Go using
 ## Features
 
 - **CountString**: Counts the number of Unicode code points in a given string.
-- **Status**: Returns the status of the server.
 - **Alert**: Logs an alert message.
 
 ## Installation
